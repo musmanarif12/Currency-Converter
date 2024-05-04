@@ -18,3 +18,5 @@ To get the app running locally:
     1. Clone the repository to your local machine.
     2. Navigate to the project directory and run npm install to install dependencies.
     3. Start the app using npm start, which will open it in your default web browser at http://localhost:3000.
+    
+![Screenshot 2024-05-04 135552](https://github.com/musmanarif12/Currency-Converter/assets/147609201/c0e86024-4ad5-4f1a-98d1-b0607b24ea80)
