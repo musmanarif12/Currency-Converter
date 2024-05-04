@@ -1,0 +1,24 @@
+.about-container {
+    padding: 20px;
+    font-family: Arial, sans-serif; /* Consistent font style as Contact.css */
+    opacity: 0.9;  
+}
+  
+  .about-content {
+    background-color: #f8f8f8; /* Light grey background for content area */
+    padding: 20px;
+    border-radius: 8px; /* Rounded corners */
+    margin-top: 20px; /* Space between navbar and content */
+  }
+  
+  .about-content h1 {
+    color: #333; /* Darker color for headers */
+    font-size: 24px; /* Larger font size for headers */
+  }
+  
+  .about-content p {
+    color: #666; /* Medium grey for paragraph text */
+    font-size: 16px; /* Readable text size */
+    line-height: 1.5; /* Spacing between lines */
+  }
+  

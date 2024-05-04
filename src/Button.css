@@ -1,0 +1,16 @@
+/* Button.css */
+.blog-button {
+  padding: 10px 20px;
+  background-color: green;  
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  height: 50px;
+  
+}
+
+.blog-button:hover {
+  background-color: #4cae4c;
+}

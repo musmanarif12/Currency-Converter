@@ -1,0 +1,40 @@
+footer {
+    background-color: rgba(245, 245, 245, 0.8);
+    padding: 20px;
+    border-bottom: 1px solid #ccc;
+    text-align: center;
+    width: 100%;
+    box-sizing: border-box;
+    margin: 0 auto 20px;
+    font-size: 1.2rem;
+    box-shadow: 0 2px 5px #333;
+    border-radius: 6px;
+}
+
+.footer-content p {
+    margin: 5px 0;
+    color: rgba(0, 0, 0, 0.9); /* Text color with opacity */
+}
+
+.extra-info p {
+    font-size: 0.9em;
+    margin: 3px 0;
+    color: rgba(0, 0, 0, 0.8); /* Slightly more transparent text */
+}
+
+button {
+    padding: 8px 16px;
+    background: transparent;
+    border: 1px solid #4CAF50; /* Changed border color to green */
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s, opacity 0.3s;
+    opacity: 0.9; /* Button opacity */
+    color: #4CAF50; /* Changed text color to green */
+}
+
+button:hover {
+    background-color: #4CAF50; /* Darker shade of green on hover */
+    color: white; /* Text color changes to white on hover */
+    opacity: 1; /* Full opacity on hover */
+}

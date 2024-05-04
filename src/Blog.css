@@ -1,0 +1,24 @@
+.blog-container {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    line-height: 1.6;
+    background-color: rgba(255, 255, 255, 0.9); 
+    width: 100%; 
+    margin: auto; 
+    border-radius: 8px; 
+    box-sizing: border-box; 
+    border: 1px solid #ccc; 
+}
+
+.blog-container h1, .blog-container h2 {
+    color: #333;
+}
+
+.blog-container ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.blog-container li {
+    margin-bottom: 10px;
+}
