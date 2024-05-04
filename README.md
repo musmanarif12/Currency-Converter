@@ -20,3 +20,9 @@ To get the app running locally:
     3. Start the app using npm start, which will open it in your default web browser at http://localhost:3000.
     
 ![Screenshot 2024-05-04 135552](https://github.com/musmanarif12/Currency-Converter/assets/147609201/c0e86024-4ad5-4f1a-98d1-b0607b24ea80)
+
+![Screenshot 2024-05-04 140659](https://github.com/musmanarif12/Currency-Converter/assets/147609201/ed583ee5-847d-4663-877b-0a8e3dd5343f)
+
+![Screenshot 2024-05-04 140716](https://github.com/musmanarif12/Currency-Converter/assets/147609201/3fa66676-0389-4c5c-8ebf-35668a747fde)
+
+![Screenshot 2024-05-04 140728](https://github.com/musmanarif12/Currency-Converter/assets/147609201/3c2d2975-d70f-44d8-a2ea-be23e9b604bc)
